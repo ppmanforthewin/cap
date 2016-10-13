@@ -4,6 +4,9 @@ title: About
 subtitle: Serving America by developing our nation's youth; performing local, state and national missions; and informing our citizens about the importance of aerospace education.
 permalink: /about/
 ---
+
+![Apollo Composite Squadron](/assets/img/about.jpg "Apollo Composite Squadron")
+
 # About
 
 We support Georgetown and surrounding communities with emergency response, diverse aviation and ground services, youth development and promotion of air, space and cyber power. Civil Air Patrol serves America by developing our nation's youth; performing local, state and national missions; and informing our citizens about the importance of aerospace education.
