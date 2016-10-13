@@ -5,7 +5,7 @@ subtitle: Serving America by developing our nation's youth; performing local, st
 permalink: /about/
 ---
 
-![Apollo Composite Squadron](/assets/img/about.jpg "Apollo Composite Squadron")
+![Apollo Composite Squadron](/{{ site.baseurl }}/assets/img/about.jpg "Apollo Composite Squadron")
 
 # About
 
