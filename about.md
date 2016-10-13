@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Civil Air Patrol serves America by developing our nation's youth; performing local, state and national missions; and informing our citizens about the importance of aerospace education. Meetings are open to the public and are held every Tuesday evening at 6:30 PM at Hanger F.
+subtitle: Serving America by developing our nation's youth; performing local, state and national missions; and informing our citizens about the importance of aerospace education.
 permalink: /about/
 ---
 # About
