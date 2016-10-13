@@ -1,0 +1,36 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: expanded # compressed # expanded
+
+# permalink and highlighter
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+# SEO settings
+title: Apollo Composite Squadron, Civil Air Patrol
+description: "Civil Air Patrol serves America by developing our nation's youth; performing local, state and national missions; and informing our citizens about the importance of aerospace education. Meetings are open to the public and are held every Tuesday evening at 6:30 PM at Hanger F."
+keywords: "civil, air, patrol, force, georgetown, space, youth, education, aviation, emergency, cyber"
+
+# Site settings
+url: http://ppmanforthewin.github.io
+baseurl: "/cap"
+# baseurl: ""
+
+# Author settings
+author:
+  name      : Apollo Composite Squadron
+  email     : email
+  url       : url
+  facebook  : https://facebook.com/apollo371cap/
+
+google_analytics: code
